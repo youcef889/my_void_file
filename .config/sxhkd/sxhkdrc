@@ -65,7 +65,8 @@ super + d
 #Use  surf and dmenu to search web quickly  
 super + s 
      $HOME/bin/surf_search.sh
-  
+super + t
+      $HOME/bin/create_templet.sh
 super + q 
      $HOME/bin/books.sh
 

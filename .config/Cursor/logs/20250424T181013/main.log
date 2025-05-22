@@ -1,7 +1,0 @@
-2025-04-24 18:10:14.853 [info] updateURL https://api2.cursor.sh/updates/api/update/linux-x64/cursor/0.48.9/da202a212adc0f1979ca53ee953dae03760b6acb917c789679d959bcbebb4be0/stable
-2025-04-24 18:10:14.853 [info] update#setState idle
-2025-04-24 18:10:44.439 [info] update#setState checking for updates
-2025-04-24 18:10:44.632 [info] update#setState ready
-2025-04-24 18:12:55.149 [info] Extension host with pid 1178 exited with code: 0, signal: unknown.
-2025-04-24 18:12:55.190 [error] [UtilityProcess id: 1, type: fileWatcher, pid: 1096]: crashed with code 15 and reason 'killed'
-2025-04-24 18:12:55.222 [info] update#quitAndInstall(): starting updater with command /tmp/.mount_Cursor3YuDST/usr/share/cursor/resources/appimageupdatetool.AppImage -u "zsync|https://downloads.cursor.com/production/ec408037b24566b11e6132c58bbe6ad27046eb91/linux/x64/Cursor-0.49.4-x86_64.AppImage.zsync" -O "/home/youcef/Downloads/Cursor-0.48.9-x86_64.AppImage"; /home/youcef/Downloads/Cursor-0.48.9-x86_64.AppImage &

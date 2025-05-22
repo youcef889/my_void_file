@@ -4,14 +4,18 @@
 [[ $- != *i* ]] && return
 
 alias ls='ls --color=auto'
-PS1='[\u@\h \W]\$ '
+# Set PS1 (prompt)
+PS1="\[$(tput setaf 6)\]╭─\[$(tput setaf 5)\][\u@\h]\[$(tput setaf 6)\]-\[$(tput setaf 4)\][\w]\n\[$(tput setaf 6)\]╰─\[$(tput setaf 3)\]$ \[$(tput sgr0)\]"
 
-alias i='sudo xbps-install -S'
-alias u='i;sudo xbps-install -u xbps ; sudo xbps-install -u'  
-alias q='sudo xbps-query -Rs'  
-alias r='sudo xbps-remove'
+# ====== LS_COLORS (Catppuccin-friendly) ====== #
+export LS_COLORS="di=34:ln=36:so=35:pi=33:ex=32:bd=34:cd=34:su=31:sg=31:tw=34:ow=34:*.txt=37:*.sh=32"
 
-export BROWSER=firefox
+alias i='doas xbps-install -S'
+alias u='i;doas xbps-install -u xbps ; doas xbps-install -u'  
+alias q='doas  xbps-query -Rs'  
+alias r='doas  xbps-remove'
+
+export BROWSER=surf
 export PDFREADER=zathura
 export VideoPlayer=mpv
 

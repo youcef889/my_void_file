@@ -23,3 +23,46 @@ set guioptions ""
  
 map f toggle_fullscreen
 map [fullscreen] f toggle_fullscreen 
+
+
+# Background color of the page and interface
+set default-bg "#1e1e2e"
+set default-fg "#ffffff"
+
+# Color of the status bar and input box
+set statusbar-bg "#1e1e2e"
+set statusbar-fg "#ffffff"
+set inputbar-bg "#1e1e2e"
+set inputbar-fg "#ffffff"
+
+# Highlight colors
+set highlight-color "#ffcc00"
+set highlight-active-color "#ffaa00"
+
+# Recoloring for dark mode
+set recolor "true"
+set recolor-keephue "true"
+set recolor-lightcolor "#1e1e2e"
+set recolor-darkcolor "#ffffff"
+
+
+# Adjust search highlight
+set completion-bg "#1e1e2e"
+set completion-fg "#ffffff"
+set completion-highlight-bg "#44475a"
+set completion-highlight-fg "#ffffff"
+
+# Links
+set index-bg "#1e1e2e"
+set index-fg "#ffffff"
+set index-active-bg "#44475a"
+set index-active-fg "#ffffff"
+
+# Notification colors
+set notification-error-bg "#1e1e2e"
+set notification-error-fg "#ff5555"
+set notification-warning-bg "#1e1e2e"
+set notification-warning-fg "#f1fa8c"
+set notification-bg "#1e1e2e"
+set notification-fg "#ffffff"
+
