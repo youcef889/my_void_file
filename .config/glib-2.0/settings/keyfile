@@ -1,0 +1,72 @@
+[org/gtk/settings/file-chooser]
+window-position=(120, -28)
+window-size=(1124, 822)
+date-format='regular'
+location-mode='path-bar'
+show-hidden=false
+show-size-column=true
+show-type-column=true
+sidebar-width=156
+sort-column='modified'
+sort-directories-first=false
+sort-order='ascending'
+type-format='category'
+
+[org/xfce/mousepad/state/application]
+session=['1;;+file:///home/youcef/docker_app/sasquatch/build.sh']
+enabled-plugins=['mousepad-plugin-shortcuts', 'mousepad-plugin-gspell']
+
+[org/xfce/mousepad/state/window]
+width=636
+height=687
+maximized=false
+fullscreen=false
+left=35
+top=34
+
+[org/xfce/mousepad/preferences/view]
+show-line-numbers=true
+show-whitespace=false
+show-line-endings=false
+color-scheme='oblivion'
+
+[org/xfce/mousepad/preferences/window]
+toolbar-style='text'
+toolbar-visible=false
+path-in-title=true
+client-side-decorations=true
+remember-position=true
+
+[org/xfce/mousepad/state/search]
+search-history=['verbose', 'if verbose', 'if (verbose) ', "Capacité du système atteinte pour l'autonomie de 7 jour", 'DejaVu', 'Qd_prime', 'Arial', 'Autonomie après vieillissement']
+replace-all=true
+replace-history=['Helvetica', 'DejaVu']
+
+[org/gnome/desktop/sound]
+event-sounds=false
+input-feedback-sounds=false
+theme-name='default'
+
+[org/gnome/desktop/peripherals/mouse]
+double-click=400
+drag-threshold=8
+
+[org/gnome/desktop/wm/preferences]
+button-layout='icon,menu:minimize,maximize,close'
+action-middle-click-titlebar='lower'
+
+[org/gnome/desktop/interface]
+gtk-theme='Arc-Dark'
+icon-theme='ePapirus'
+gtk-key-theme=''
+cursor-blink=true
+cursor-blink-time=1200
+cursor-size=0
+cursor-theme=''
+font-name='Sans 10'
+
+[org/blueman/general]
+window-properties=[538, 350, 14, 113]
+
+[org/blueman/plugins/recentconns]
+recent-connections=[{'adapter': '00:24:D6:A1:75:6F', 'address': '38:15:35:01:A5:81', 'alias': 'MAXFONE M118', 'icon': 'phone', 'name': 'Audio and input profiles', 'uuid': '00000000-0000-0000-0000-000000000000', 'time': '1743553533.4656577'}]

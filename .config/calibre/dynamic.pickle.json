@@ -1,0 +1,17 @@
+{
+  "add books dialog dir": "/home/youcef/docker_app/books/William Stallings/Cryptography and Network Security_ Principles and Practice, 8_e (244)",
+  "add books dialog dir-last-used-filter-spec-all-files": false,
+  "database location dialog": "/home/youcef/Downloads/Books",
+  "sort_history": [
+    [
+      "timestamp",
+      false
+    ],
+    [
+      "timestamp",
+      false
+    ]
+  ],
+  "welcome_wizard_device": "default",
+  "welcome_wizard_was_run": true
+}

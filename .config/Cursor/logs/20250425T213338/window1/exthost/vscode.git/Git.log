@@ -1,0 +1,94 @@
+2025-04-25 21:33:43.364 [info] [main] Log level: Info
+2025-04-25 21:33:43.364 [info] [main] Validating found git in: "git"
+2025-04-25 21:33:43.364 [info] [main] Using git "2.49.0" from "git"
+2025-04-25 21:33:43.364 [info] [Model][doInitialScan] Initial repository scan started
+2025-04-25 21:33:43.364 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-04-25 21:33:53.384 [info] > git config --global user.name [11ms]
+2025-04-25 21:33:53.404 [info] > git config --global user.email [5ms]
+2025-04-25 21:33:53.404 [info] [main] Stored git author name in global state: youcef889 <youcef7770@gmail.com>
+2025-04-25 21:34:03.170 [info] [main] Log level: Info
+2025-04-25 21:34:03.170 [info] [main] Validating found git in: "git"
+2025-04-25 21:34:03.170 [info] [main] Using git "2.49.0" from "git"
+2025-04-25 21:34:03.170 [info] [Model][doInitialScan] Initial repository scan started
+2025-04-25 21:34:03.170 [info] > git rev-parse --show-toplevel [3ms]
+2025-04-25 21:34:03.188 [info] > git rev-parse --git-dir --git-common-dir [7ms]
+2025-04-25 21:34:03.208 [info] [Model][openRepository] Opened repository: /home/youcef/project_flask/manga_reader
+2025-04-25 21:34:03.232 [info] > git config --get commit.template [13ms]
+2025-04-25 21:34:03.233 [info] > git rev-parse --show-toplevel [4ms]
+2025-04-25 21:34:03.233 [info] [Git][getRemotes] No remotes found in the git config file
+2025-04-25 21:34:03.251 [info] [Git][getRemotes] No remotes found in the git config file
+2025-04-25 21:34:03.264 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [14ms]
+2025-04-25 21:34:03.264 [warning] [Git][getBranch] No such branch: master
+2025-04-25 21:34:03.320 [info] > git status -z -uall [47ms]
+2025-04-25 21:34:03.320 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [36ms]
+2025-04-25 21:34:03.344 [info] > git rev-parse --show-toplevel [81ms]
+2025-04-25 21:34:03.493 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [151ms]
+2025-04-25 21:34:03.493 [warning] [Git][getBranch] No such branch: master
+2025-04-25 21:34:03.495 [error] [GitHistoryProvider][resolveHEADMergeBase] Failed to resolve merge base for master: Error: No such branch: master.
+2025-04-25 21:34:03.516 [info] > git rev-parse --show-toplevel [27ms]
+2025-04-25 21:34:03.517 [info] > git config --get commit.template [36ms]
+2025-04-25 21:34:03.549 [info] [Git][getRemotes] No remotes found in the git config file
+2025-04-25 21:34:03.551 [info] > git rev-parse --show-toplevel [19ms]
+2025-04-25 21:34:03.568 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [20ms]
+2025-04-25 21:34:03.568 [warning] [Git][getBranch] No such branch: master
+2025-04-25 21:34:03.587 [info] > git status -z -uall [9ms]
+2025-04-25 21:34:03.590 [info] > git rev-parse --show-toplevel [27ms]
+2025-04-25 21:34:03.592 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [6ms]
+2025-04-25 21:34:03.609 [info] > git rev-parse --show-toplevel [5ms]
+2025-04-25 21:34:03.621 [info] > git rev-parse --show-toplevel [4ms]
+2025-04-25 21:34:03.625 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-04-25 21:34:03.995 [info] > git check-ignore -v -z --stdin [20ms]
+2025-04-25 21:34:13.153 [info] > git config --global user.name [7ms]
+2025-04-25 21:34:13.170 [info] > git config --global user.email [3ms]
+2025-04-25 21:34:13.170 [info] [main] Stored git author name in global state: youcef889 <youcef7770@gmail.com>
+2025-04-25 21:34:16.119 [info] > git check-ignore -v -z --stdin [3ms]
+2025-04-25 21:34:17.118 [info] > git check-ignore -v -z --stdin [5ms]
+2025-04-25 21:34:20.186 [info] > git show --textconv :app/main.py [68ms]
+2025-04-25 21:34:20.186 [info] > git show --textconv HEAD:app/main.py [49ms]
+2025-04-25 21:34:20.188 [info] > git ls-files --stage -- /home/youcef/project_flask/manga_reader/app/main.py [34ms]
+2025-04-25 21:34:20.248 [info] > git cat-file -s 4a8b4639935f8a83ad750f814085f7ed1c63110e [21ms]
+2025-04-25 21:34:20.249 [info] > git ls-tree -l HEAD -- /home/youcef/project_flask/manga_reader/app/main.py [75ms]
+2025-04-25 21:34:20.250 [info] fatal: Not a valid object name HEAD
+2025-04-25 21:34:40.388 [info] [main] Log level: Info
+2025-04-25 21:34:40.388 [info] [main] Validating found git in: "git"
+2025-04-25 21:34:40.389 [info] [main] Using git "2.49.0" from "git"
+2025-04-25 21:34:40.389 [info] [Model][doInitialScan] Initial repository scan started
+2025-04-25 21:34:40.389 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-04-25 21:34:49.563 [info] > git config --global user.name [2ms]
+2025-04-25 21:34:49.574 [info] > git config --global user.email [2ms]
+2025-04-25 21:34:49.574 [info] [main] Stored git author name in global state: youcef889 <youcef7770@gmail.com>
+2025-04-25 21:36:03.634 [info] > git rev-parse --show-toplevel [48ms]
+2025-04-25 21:36:03.634 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-04-25 21:39:51.128 [info] [main] Log level: Info
+2025-04-25 21:39:51.128 [info] [main] Validating found git in: "git"
+2025-04-25 21:39:51.128 [info] [main] Using git "2.49.0" from "git"
+2025-04-25 21:39:51.128 [info] [Model][doInitialScan] Initial repository scan started
+2025-04-25 21:39:51.128 [info] > git rev-parse --show-toplevel [62ms]
+2025-04-25 21:39:51.197 [info] > git rev-parse --git-dir --git-common-dir [62ms]
+2025-04-25 21:39:51.216 [info] [Model][openRepository] Opened repository: /home/youcef/project_flask/manga_reader
+2025-04-25 21:39:51.268 [info] > git rev-parse --show-toplevel [19ms]
+2025-04-25 21:39:51.269 [info] > git config --get commit.template [34ms]
+2025-04-25 21:39:51.348 [info] [Git][getRemotes] No remotes found in the git config file
+2025-04-25 21:39:51.348 [info] [Git][getRemotes] No remotes found in the git config file
+2025-04-25 21:39:51.351 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+2025-04-25 21:39:51.351 [warning] [Git][getBranch] No such branch: master
+2025-04-25 21:39:51.377 [info] > git rev-parse --show-toplevel [43ms]
+2025-04-25 21:39:51.398 [info] > git status -z -uall [34ms]
+2025-04-25 21:39:51.398 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [21ms]
+2025-04-25 21:39:51.446 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [27ms]
+2025-04-25 21:39:51.446 [warning] [Git][getBranch] No such branch: master
+2025-04-25 21:39:51.447 [error] [GitHistoryProvider][resolveHEADMergeBase] Failed to resolve merge base for master: Error: No such branch: master.
+2025-04-25 21:39:51.449 [info] > git rev-parse --show-toplevel [52ms]
+2025-04-25 21:39:51.482 [info] > git config --get commit.template [43ms]
+2025-04-25 21:39:51.518 [info] > git rev-parse --show-toplevel [38ms]
+2025-04-25 21:39:51.788 [info] [Git][getRemotes] No remotes found in the git config file
+2025-04-25 21:39:51.916 [info] > git check-ignore -v -z --stdin [99ms]
+2025-04-25 21:39:51.917 [info] > git rev-parse --show-toplevel [121ms]
+2025-04-25 21:39:51.917 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [129ms]
+2025-04-25 21:39:51.917 [warning] [Git][getBranch] No such branch: master
+2025-04-25 21:39:51.966 [info] > git status -z -uall [39ms]
+2025-04-25 21:39:51.966 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [29ms]
+2025-04-25 21:39:51.983 [info] > git rev-parse --show-toplevel [31ms]
+2025-04-25 21:39:51.995 [info] > git rev-parse --show-toplevel [2ms]
+2025-04-25 21:39:52.014 [info] > git rev-parse --show-toplevel [10ms]
+2025-04-25 21:39:52.016 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)

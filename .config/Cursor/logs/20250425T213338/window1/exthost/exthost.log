@@ -1,0 +1,218 @@
+2025-04-25 21:33:43.105 [info] Extension host with pid 14714 started
+2025-04-25 21:33:43.127 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-04-25 21:33:43.137 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-04-25 21:33:43.232 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-04-25 21:33:43.358 [info] Eager extensions activated
+2025-04-25 21:33:43.435 [info] ExtensionService#_doActivateExtension anysphere.cursor-always-local, startup: false, activationEvent: 'onStartupFinished'
+2025-04-25 21:33:43.730 [info] ExtensionService#_doActivateExtension anysphere.cursor-retrieval, startup: false, activationEvent: 'onStartupFinished'
+2025-04-25 21:33:44.053 [info] ExtensionService#_doActivateExtension anysphere.cursor-shadow-workspace, startup: false, activationEvent: 'onStartupFinished'
+2025-04-25 21:33:44.145 [info] ExtensionService#_doActivateExtension anysphere.cursor-tokenize, startup: false, activationEvent: 'onStartupFinished'
+2025-04-25 21:33:44.377 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-04-25 21:33:44.381 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-04-25 21:33:59.850 [info] Extension host terminating: renderer closed the MessagePort
+2025-04-25 21:33:59.884 [info] Extension host with pid 14714 exiting with code 0
+2025-04-25 21:34:02.678 [info] Extension host with pid 15414 started
+2025-04-25 21:34:02.678 [info] Skipping acquiring lock for /home/youcef/.config/Cursor/User/workspaceStorage/879d39b2a00f4d52ab0e01e5953bd188.
+2025-04-25 21:34:02.689 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-04-25 21:34:02.695 [info] ExtensionService#_doActivateExtension ms-python.python, startup: true, activationEvent: 'workspaceContains:requirements.txt'
+2025-04-25 21:34:02.887 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-04-25 21:34:02.956 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-04-25 21:34:03.286 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-04-25 21:34:03.903 [info] Eager extensions activated
+2025-04-25 21:34:03.997 [info] ExtensionService#_doActivateExtension anysphere.cursor-always-local, startup: false, activationEvent: 'onStartupFinished'
+2025-04-25 21:34:04.347 [info] ExtensionService#_doActivateExtension anysphere.cursor-retrieval, startup: false, activationEvent: 'onStartupFinished'
+2025-04-25 21:34:05.261 [info] ExtensionService#_doActivateExtension anysphere.cursor-shadow-workspace, startup: false, activationEvent: 'onStartupFinished'
+2025-04-25 21:34:05.362 [info] ExtensionService#_doActivateExtension anysphere.cursor-tokenize, startup: false, activationEvent: 'onStartupFinished'
+2025-04-25 21:34:05.618 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-04-25 21:34:05.624 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-04-25 21:34:06.412 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'api', root cause: ms-python.python
+2025-04-25 21:34:19.895 [info] ExtensionService#_doActivateExtension ms-python.debugpy, startup: false, activationEvent: 'onLanguage:python'
+2025-04-25 21:34:36.574 [info] Extension host terminating: renderer closed the MessagePort
+2025-04-25 21:34:36.597 [error] Canceled: Canceled
+	at new aEt (file:///tmp/.mount_CursorgBbXcI/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:111661)
+	at IK.U (file:///tmp/.mount_CursorgBbXcI/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:116296)
+	at n.<computed>.a.charCodeAt.n.<computed> (file:///tmp/.mount_CursorgBbXcI/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:113788)
+	at xY.g (file:///tmp/.mount_CursorgBbXcI/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:135:32527)
+	at xY.executeCommand (file:///tmp/.mount_CursorgBbXcI/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:135:32031)
+	at e.registerCommand.description (file:///tmp/.mount_CursorgBbXcI/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:135:31361)
+	at xY.h (file:///tmp/.mount_CursorgBbXcI/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:135:33048)
+	at xY.g (file:///tmp/.mount_CursorgBbXcI/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:135:32124)
+	at xY.executeCommand (file:///tmp/.mount_CursorgBbXcI/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:135:32031)
+	at Object.executeCommand (file:///tmp/.mount_CursorgBbXcI/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:177:42481)
+	at L3.N [as value] (/tmp/.mount_CursorgBbXcI/usr/share/cursor/resources/app/extensions/git/dist/main.js:4:978108)
+	at C.B (file:///tmp/.mount_CursorgBbXcI/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:2385)
+	at C (file:///tmp/.mount_CursorgBbXcI/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:2455)
+	at C.fire (file:///tmp/.mount_CursorgBbXcI/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:2672)
+	at Object.f [as dispose] (/tmp/.mount_CursorgBbXcI/usr/share/cursor/resources/app/extensions/git/dist/main.js:4:999684)
+	at /tmp/.mount_CursorgBbXcI/usr/share/cursor/resources/app/extensions/git/dist/main.js:4:1005806
+	at Array.forEach (<anonymous>)
+	at C.dispose (/tmp/.mount_CursorgBbXcI/usr/share/cursor/resources/app/extensions/git/dist/main.js:4:1005792)
+	at XG.<anonymous> (file:///tmp/.mount_CursorgBbXcI/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:128:20157)
+	at XG.dispose (file:///tmp/.mount_CursorgBbXcI/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:128:20253)
+	at XG.<anonymous> (/tmp/.mount_CursorgBbXcI/usr/share/cursor/resources/app/extensions/git/dist/main.js:4:980587)
+	at XG.dispose (file:///tmp/.mount_CursorgBbXcI/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:128:20253)
+	at Hs (file:///tmp/.mount_CursorgBbXcI/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:706)
+	at file:///tmp/.mount_CursorgBbXcI/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:139:15363
+	at file:///tmp/.mount_CursorgBbXcI/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:1017
+	at Object.dispose (file:///tmp/.mount_CursorgBbXcI/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:10:708)
+	at Jie.eb (file:///tmp/.mount_CursorgBbXcI/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:139:12144)
+	at file:///tmp/.mount_CursorgBbXcI/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:139:10098
+	at Array.map (<anonymous>)
+	at Jie.$ (file:///tmp/.mount_CursorgBbXcI/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:139:10086)
+	at Jie.terminate (file:///tmp/.mount_CursorgBbXcI/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:139:10329)
+	at fvt.terminate (file:///tmp/.mount_CursorgBbXcI/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:140:1435)
+	at Gr (file:///tmp/.mount_CursorgBbXcI/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:195:15173)
+	at MessagePortMain.<anonymous> (file:///tmp/.mount_CursorgBbXcI/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:195:11701)
+	at MessagePortMain.emit (node:events:518:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949) setContext undefined
+2025-04-25 21:34:36.597 [error] Canceled: Canceled
+	at new aEt (file:///tmp/.mount_CursorgBbXcI/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:111661)
+	at IK.U (file:///tmp/.mount_CursorgBbXcI/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:116296)
+	at n.<computed>.a.charCodeAt.n.<computed> (file:///tmp/.mount_CursorgBbXcI/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:113788)
+	at xY.g (file:///tmp/.mount_CursorgBbXcI/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:135:32527)
+	at xY.executeCommand (file:///tmp/.mount_CursorgBbXcI/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:135:32031)
+	at e.registerCommand.description (file:///tmp/.mount_CursorgBbXcI/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:135:31361)
+	at xY.h (file:///tmp/.mount_CursorgBbXcI/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:135:33048)
+	at xY.g (file:///tmp/.mount_CursorgBbXcI/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:135:32124)
+	at xY.executeCommand (file:///tmp/.mount_CursorgBbXcI/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:135:32031)
+	at Object.executeCommand (file:///tmp/.mount_CursorgBbXcI/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:177:42481)
+	at set hasGitHubRepositories (/tmp/.mount_CursorgBbXcI/usr/share/cursor/resources/app/extensions/github/dist/extension.js:4:328629)
+	at /tmp/.mount_CursorgBbXcI/usr/share/cursor/resources/app/extensions/github/dist/extension.js:4:329588
+	at L3.value (/tmp/.mount_CursorgBbXcI/usr/share/cursor/resources/app/extensions/git/dist/main.js:4:1096223)
+	at C.B (file:///tmp/.mount_CursorgBbXcI/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:2385)
+	at C (file:///tmp/.mount_CursorgBbXcI/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:2455)
+	at C.fire (file:///tmp/.mount_CursorgBbXcI/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:2672)
+	at Object.f [as dispose] (/tmp/.mount_CursorgBbXcI/usr/share/cursor/resources/app/extensions/git/dist/main.js:4:999684)
+	at /tmp/.mount_CursorgBbXcI/usr/share/cursor/resources/app/extensions/git/dist/main.js:4:1005806
+	at Array.forEach (<anonymous>)
+	at C.dispose (/tmp/.mount_CursorgBbXcI/usr/share/cursor/resources/app/extensions/git/dist/main.js:4:1005792)
+	at XG.<anonymous> (file:///tmp/.mount_CursorgBbXcI/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:128:20157)
+	at XG.dispose (file:///tmp/.mount_CursorgBbXcI/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:128:20253)
+	at XG.<anonymous> (/tmp/.mount_CursorgBbXcI/usr/share/cursor/resources/app/extensions/git/dist/main.js:4:980587)
+	at XG.dispose (file:///tmp/.mount_CursorgBbXcI/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:128:20253)
+	at Hs (file:///tmp/.mount_CursorgBbXcI/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:706)
+	at file:///tmp/.mount_CursorgBbXcI/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:139:15363
+	at file:///tmp/.mount_CursorgBbXcI/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:1017
+	at Object.dispose (file:///tmp/.mount_CursorgBbXcI/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:10:708)
+	at Jie.eb (file:///tmp/.mount_CursorgBbXcI/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:139:12144)
+	at file:///tmp/.mount_CursorgBbXcI/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:139:10098
+	at Array.map (<anonymous>)
+	at Jie.$ (file:///tmp/.mount_CursorgBbXcI/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:139:10086)
+	at Jie.terminate (file:///tmp/.mount_CursorgBbXcI/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:139:10329)
+	at fvt.terminate (file:///tmp/.mount_CursorgBbXcI/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:140:1435)
+	at Gr (file:///tmp/.mount_CursorgBbXcI/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:195:15173)
+	at MessagePortMain.<anonymous> (file:///tmp/.mount_CursorgBbXcI/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:195:11701)
+	at MessagePortMain.emit (node:events:518:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949) setContext undefined
+2025-04-25 21:34:36.598 [info] Extension host with pid 15414 exiting with code 0
+2025-04-25 21:34:39.354 [info] Extension host with pid 17015 started
+2025-04-25 21:34:39.374 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-04-25 21:34:39.386 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-04-25 21:34:39.462 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-04-25 21:34:39.568 [info] Eager extensions activated
+2025-04-25 21:34:39.576 [info] ExtensionService#_doActivateExtension anysphere.cursor-always-local, startup: false, activationEvent: 'onStartupFinished'
+2025-04-25 21:34:39.808 [info] ExtensionService#_doActivateExtension anysphere.cursor-retrieval, startup: false, activationEvent: 'onStartupFinished'
+2025-04-25 21:34:40.006 [info] ExtensionService#_doActivateExtension anysphere.cursor-shadow-workspace, startup: false, activationEvent: 'onStartupFinished'
+2025-04-25 21:34:40.086 [info] ExtensionService#_doActivateExtension anysphere.cursor-tokenize, startup: false, activationEvent: 'onStartupFinished'
+2025-04-25 21:34:40.331 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-04-25 21:34:40.335 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-04-25 21:35:23.811 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-04-25 21:36:03.162 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python', root cause: ms-python.debugpy
+2025-04-25 21:36:03.826 [info] ExtensionService#_doActivateExtension ms-python.debugpy, startup: false, activationEvent: 'onLanguage:python'
+2025-04-25 21:36:03.901 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+2025-04-25 21:39:44.590 [info] Extension host terminating: renderer closed the MessagePort
+2025-04-25 21:39:44.616 [info] Extension host with pid 17015 exiting with code 0
+2025-04-25 21:39:48.134 [info] Extension host with pid 28345 started
+2025-04-25 21:39:48.134 [info] Skipping acquiring lock for /home/youcef/.config/Cursor/User/workspaceStorage/879d39b2a00f4d52ab0e01e5953bd188.
+2025-04-25 21:39:48.212 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-04-25 21:39:48.259 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python', root cause: ms-python.debugpy
+2025-04-25 21:39:48.829 [info] ExtensionService#_doActivateExtension ms-python.debugpy, startup: false, activationEvent: 'onLanguage:python'
+2025-04-25 21:39:48.913 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+2025-04-25 21:39:49.354 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-04-25 21:39:49.369 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-04-25 21:39:49.439 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-04-25 21:39:49.566 [info] Eager extensions activated
+2025-04-25 21:39:49.649 [info] ExtensionService#_doActivateExtension anysphere.cursor-always-local, startup: false, activationEvent: 'onStartupFinished'
+2025-04-25 21:39:49.953 [info] ExtensionService#_doActivateExtension anysphere.cursor-retrieval, startup: false, activationEvent: 'onStartupFinished'
+2025-04-25 21:39:50.617 [info] ExtensionService#_doActivateExtension anysphere.cursor-shadow-workspace, startup: false, activationEvent: 'onStartupFinished'
+2025-04-25 21:39:50.722 [info] ExtensionService#_doActivateExtension anysphere.cursor-tokenize, startup: false, activationEvent: 'onStartupFinished'
+2025-04-25 21:39:50.989 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-04-25 21:39:50.998 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-04-25 21:39:55.127 [info] Extension host terminating: renderer closed the MessagePort
+2025-04-25 21:39:55.146 [error] Canceled: Canceled
+	at new aEt (file:///tmp/.mount_CursorgBbXcI/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:111661)
+	at IK.U (file:///tmp/.mount_CursorgBbXcI/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:116296)
+	at n.<computed>.a.charCodeAt.n.<computed> (file:///tmp/.mount_CursorgBbXcI/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:113788)
+	at xY.g (file:///tmp/.mount_CursorgBbXcI/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:135:32527)
+	at xY.executeCommand (file:///tmp/.mount_CursorgBbXcI/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:135:32031)
+	at e.registerCommand.description (file:///tmp/.mount_CursorgBbXcI/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:135:31361)
+	at xY.h (file:///tmp/.mount_CursorgBbXcI/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:135:33048)
+	at xY.g (file:///tmp/.mount_CursorgBbXcI/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:135:32124)
+	at xY.executeCommand (file:///tmp/.mount_CursorgBbXcI/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:135:32031)
+	at Object.executeCommand (file:///tmp/.mount_CursorgBbXcI/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:177:42481)
+	at L3.N [as value] (/tmp/.mount_CursorgBbXcI/usr/share/cursor/resources/app/extensions/git/dist/main.js:4:978108)
+	at C.B (file:///tmp/.mount_CursorgBbXcI/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:2385)
+	at C (file:///tmp/.mount_CursorgBbXcI/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:2455)
+	at C.fire (file:///tmp/.mount_CursorgBbXcI/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:2672)
+	at Object.f [as dispose] (/tmp/.mount_CursorgBbXcI/usr/share/cursor/resources/app/extensions/git/dist/main.js:4:999684)
+	at /tmp/.mount_CursorgBbXcI/usr/share/cursor/resources/app/extensions/git/dist/main.js:4:1005806
+	at Array.forEach (<anonymous>)
+	at C.dispose (/tmp/.mount_CursorgBbXcI/usr/share/cursor/resources/app/extensions/git/dist/main.js:4:1005792)
+	at XG.<anonymous> (file:///tmp/.mount_CursorgBbXcI/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:128:20157)
+	at XG.dispose (file:///tmp/.mount_CursorgBbXcI/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:128:20253)
+	at XG.<anonymous> (/tmp/.mount_CursorgBbXcI/usr/share/cursor/resources/app/extensions/git/dist/main.js:4:980587)
+	at XG.dispose (file:///tmp/.mount_CursorgBbXcI/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:128:20253)
+	at Hs (file:///tmp/.mount_CursorgBbXcI/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:706)
+	at file:///tmp/.mount_CursorgBbXcI/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:139:15363
+	at file:///tmp/.mount_CursorgBbXcI/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:1017
+	at Object.dispose (file:///tmp/.mount_CursorgBbXcI/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:10:708)
+	at Jie.eb (file:///tmp/.mount_CursorgBbXcI/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:139:12144)
+	at file:///tmp/.mount_CursorgBbXcI/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:139:10098
+	at Array.map (<anonymous>)
+	at Jie.$ (file:///tmp/.mount_CursorgBbXcI/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:139:10086)
+	at Jie.terminate (file:///tmp/.mount_CursorgBbXcI/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:139:10329)
+	at fvt.terminate (file:///tmp/.mount_CursorgBbXcI/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:140:1435)
+	at Gr (file:///tmp/.mount_CursorgBbXcI/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:195:15173)
+	at MessagePortMain.<anonymous> (file:///tmp/.mount_CursorgBbXcI/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:195:11701)
+	at MessagePortMain.emit (node:events:518:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949) setContext undefined
+2025-04-25 21:39:55.146 [error] Canceled: Canceled
+	at new aEt (file:///tmp/.mount_CursorgBbXcI/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:111661)
+	at IK.U (file:///tmp/.mount_CursorgBbXcI/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:116296)
+	at n.<computed>.a.charCodeAt.n.<computed> (file:///tmp/.mount_CursorgBbXcI/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:113788)
+	at xY.g (file:///tmp/.mount_CursorgBbXcI/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:135:32527)
+	at xY.executeCommand (file:///tmp/.mount_CursorgBbXcI/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:135:32031)
+	at e.registerCommand.description (file:///tmp/.mount_CursorgBbXcI/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:135:31361)
+	at xY.h (file:///tmp/.mount_CursorgBbXcI/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:135:33048)
+	at xY.g (file:///tmp/.mount_CursorgBbXcI/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:135:32124)
+	at xY.executeCommand (file:///tmp/.mount_CursorgBbXcI/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:135:32031)
+	at Object.executeCommand (file:///tmp/.mount_CursorgBbXcI/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:177:42481)
+	at set hasGitHubRepositories (/tmp/.mount_CursorgBbXcI/usr/share/cursor/resources/app/extensions/github/dist/extension.js:4:328629)
+	at /tmp/.mount_CursorgBbXcI/usr/share/cursor/resources/app/extensions/github/dist/extension.js:4:329588
+	at L3.value (/tmp/.mount_CursorgBbXcI/usr/share/cursor/resources/app/extensions/git/dist/main.js:4:1096223)
+	at C.B (file:///tmp/.mount_CursorgBbXcI/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:2385)
+	at C (file:///tmp/.mount_CursorgBbXcI/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:2455)
+	at C.fire (file:///tmp/.mount_CursorgBbXcI/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:2672)
+	at Object.f [as dispose] (/tmp/.mount_CursorgBbXcI/usr/share/cursor/resources/app/extensions/git/dist/main.js:4:999684)
+	at /tmp/.mount_CursorgBbXcI/usr/share/cursor/resources/app/extensions/git/dist/main.js:4:1005806
+	at Array.forEach (<anonymous>)
+	at C.dispose (/tmp/.mount_CursorgBbXcI/usr/share/cursor/resources/app/extensions/git/dist/main.js:4:1005792)
+	at XG.<anonymous> (file:///tmp/.mount_CursorgBbXcI/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:128:20157)
+	at XG.dispose (file:///tmp/.mount_CursorgBbXcI/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:128:20253)
+	at XG.<anonymous> (/tmp/.mount_CursorgBbXcI/usr/share/cursor/resources/app/extensions/git/dist/main.js:4:980587)
+	at XG.dispose (file:///tmp/.mount_CursorgBbXcI/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:128:20253)
+	at Hs (file:///tmp/.mount_CursorgBbXcI/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:706)
+	at file:///tmp/.mount_CursorgBbXcI/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:139:15363
+	at file:///tmp/.mount_CursorgBbXcI/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:1017
+	at Object.dispose (file:///tmp/.mount_CursorgBbXcI/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:10:708)
+	at Jie.eb (file:///tmp/.mount_CursorgBbXcI/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:139:12144)
+	at file:///tmp/.mount_CursorgBbXcI/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:139:10098
+	at Array.map (<anonymous>)
+	at Jie.$ (file:///tmp/.mount_CursorgBbXcI/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:139:10086)
+	at Jie.terminate (file:///tmp/.mount_CursorgBbXcI/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:139:10329)
+	at fvt.terminate (file:///tmp/.mount_CursorgBbXcI/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:140:1435)
+	at Gr (file:///tmp/.mount_CursorgBbXcI/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:195:15173)
+	at MessagePortMain.<anonymous> (file:///tmp/.mount_CursorgBbXcI/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:195:11701)
+	at MessagePortMain.emit (node:events:518:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949) setContext undefined
+2025-04-25 21:39:55.357 [info] Extension host with pid 28345 exiting with code 0

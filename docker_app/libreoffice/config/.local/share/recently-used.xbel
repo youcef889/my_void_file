@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///config/4.Bases%20orthogonales.docx" added="2025-03-14T22:10:15.556047Z" modified="2025-03-14T22:10:18.457293Z" visited="2025-03-14T22:10:15.556047Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 7.6" exec="&apos;soffice %u&apos;" modified="2025-03-14T22:10:18.457292Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///config/Alg%C3%A8bre4%20Cours%201%20(2024).docx" added="2025-03-14T22:11:14.485127Z" modified="2025-03-14T22:11:17.061211Z" visited="2025-03-14T22:11:14.485128Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 7.6" exec="&apos;soffice %u&apos;" modified="2025-03-14T22:11:17.061208Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

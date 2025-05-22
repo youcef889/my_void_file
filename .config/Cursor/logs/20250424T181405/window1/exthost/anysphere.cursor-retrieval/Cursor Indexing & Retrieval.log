@@ -1,0 +1,66 @@
+2025-04-24 18:14:12.276 [error] Git command failed: git config --get remote.origin.url Command failed: git config --get remote.origin.url
+
+2025-04-24 18:14:12.276 [error] Error getting repo info: Command failed: git config --get remote.origin.url
+
+2025-04-24 18:14:12.276 [error] Error: Command failed: git config --get remote.origin.url
+
+	at genericNodeError (node:internal/errors:984:15)
+	at wrappedFn (node:internal/errors:538:14)
+	at ChildProcess.exithandler (node:child_process:422:12)
+	at ChildProcess.emit (node:events:518:28)
+	at maybeClose (node:internal/child_process:1104:16)
+	at Socket.<anonymous> (node:internal/child_process:456:11)
+	at Socket.emit (node:events:518:28)
+	at Pipe.<anonymous> (node:net:343:12)
+2025-04-24 18:14:12.506 [error] accessToken is undefined. User is not logged in. We shouldn't do any indexing.
+2025-04-24 18:22:28.123 [error] Git command failed: git config --get remote.origin.url Command failed: git config --get remote.origin.url
+
+2025-04-24 18:22:28.123 [error] Error getting repo info: Command failed: git config --get remote.origin.url
+
+2025-04-24 18:22:28.123 [error] Error: Command failed: git config --get remote.origin.url
+
+	at genericNodeError (node:internal/errors:984:15)
+	at wrappedFn (node:internal/errors:538:14)
+	at ChildProcess.exithandler (node:child_process:422:12)
+	at ChildProcess.emit (node:events:518:28)
+	at maybeClose (node:internal/child_process:1104:16)
+	at Socket.<anonymous> (node:internal/child_process:456:11)
+	at Socket.emit (node:events:518:28)
+	at Pipe.<anonymous> (node:net:343:12)
+2025-04-24 18:22:28.307 [error] accessToken is undefined. User is not logged in. We shouldn't do any indexing.
+2025-04-24 18:22:34.816 [error] Git command failed: git rev-parse --show-toplevel Command failed: git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+
+2025-04-24 18:22:39.882 [error] Git command failed: git rev-parse --show-toplevel Command failed: git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+
+2025-04-24 18:22:44.973 [error] Git command failed: git rev-parse --show-toplevel Command failed: git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+
+2025-04-24 18:27:24.989 [error] Git command failed: git rev-parse --show-toplevel Command failed: git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+
+2025-04-24 18:32:24.570 [error] Git command failed: git log --pretty=format:"%H<|ENT|><|RY|>%s<|COM|><|MIT|>" -n 10 --author="$(git config user.email || git config user.name || whoami)" Command failed: git log --pretty=format:"%H<|ENT|><|RY|>%s<|COM|><|MIT|>" -n 10 --author="$(git config user.email || git config user.name || whoami)"
+fatal: not a git repository (or any of the parent directories): .git
+
+2025-04-24 18:32:24.570 [error] Error getting user commits: Command failed: git log --pretty=format:"%H<|ENT|><|RY|>%s<|COM|><|MIT|>" -n 10 --author="$(git config user.email || git config user.name || whoami)"
+fatal: not a git repository (or any of the parent directories): .git
+
+2025-04-24 18:32:24.977 [error] Git command failed: git rev-parse --show-toplevel Command failed: git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+
+2025-04-24 18:34:29.086 [error] Git command failed: git config --get remote.origin.url Command failed: git config --get remote.origin.url
+
+2025-04-24 18:34:29.086 [error] Error getting repo info: Command failed: git config --get remote.origin.url
+
+2025-04-24 18:34:29.086 [error] Error: Command failed: git config --get remote.origin.url
+
+	at genericNodeError (node:internal/errors:984:15)
+	at wrappedFn (node:internal/errors:538:14)
+	at ChildProcess.exithandler (node:child_process:422:12)
+	at ChildProcess.emit (node:events:518:28)
+	at maybeClose (node:internal/child_process:1104:16)
+	at Socket.<anonymous> (node:internal/child_process:456:11)
+	at Socket.emit (node:events:518:28)
+	at Pipe.<anonymous> (node:net:343:12)
+2025-04-24 18:34:29.274 [error] accessToken is undefined. User is not logged in. We shouldn't do any indexing.

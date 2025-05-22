@@ -1,0 +1,8 @@
+2025-04-25 21:33:39.005 [info] updateURL https://api2.cursor.sh/updates/api/update/linux-x64/cursor/0.49.4/da202a212adc0f1979ca53ee953dae03760b6acb917c789679d959bcbebb4be0/stable
+2025-04-25 21:33:39.005 [info] update#setState idle
+2025-04-25 21:33:59.888 [info] Extension host with pid 14714 exited with code: 0, signal: unknown.
+2025-04-25 21:34:08.725 [info] update#setState checking for updates
+2025-04-25 21:34:09.853 [info] update#setState ready
+2025-04-25 21:34:36.599 [info] Extension host with pid 15414 exited with code: 0, signal: unknown.
+2025-04-25 21:39:44.617 [info] Extension host with pid 17015 exited with code: 0, signal: unknown.
+2025-04-25 21:39:55.360 [info] Extension host with pid 28345 exited with code: 0, signal: unknown.

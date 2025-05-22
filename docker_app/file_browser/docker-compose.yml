@@ -1,0 +1,17 @@
+
+services:
+  filebrowser:
+    image: filebrowser/filebrowser
+    container_name: filebrowser
+    user: "${UID}:${GID}"
+    ports:
+      - "8080:80"
+    volumes:
+      - /home/youcef/:/srv
+      - /home/youcef/docker_app/file_browser/filebrowser.db:/database.db
+      - /home/youcef/docker_app/file_browser/.filebrowser.json:/.filebrowser.json:ro
+
+    restart: unless-stopped
+    env_file:
+      - .env
+

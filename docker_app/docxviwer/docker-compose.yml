@@ -1,0 +1,16 @@
+version: '3.3'
+
+services:
+  onlyoffice:
+    image: onlyoffice/documentserver
+    container_name: onlyoffice
+    restart: always
+    ports:
+      - "8080:80"
+    environment:
+      - JWT_ENABLED=false  # Disable JWT for simplicity (not recommended for production)
+    volumes:
+      - onlyoffice_data:/var/www/onlyoffice/Data
+
+volumes:
+  onlyoffice_data:

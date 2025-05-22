@@ -1,0 +1,173 @@
+2025-04-22 20:39:40.836 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'attributableCoverage' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-04-22 20:39:40.836 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-toolsai.datawrangler' wants API proposal 'debugFocus' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-04-22 20:39:40.836 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-04-22 20:39:40.837 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.debugpy' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-04-22 20:39:40.838 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-azuretools.vscode-azure-github-copilot' wants API proposal 'lmTools' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-04-22 20:39:40.838 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.cpptools' wants API proposal 'lmTools' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-04-22 20:39:40.838 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'vscjava.vscode-java-pack' wants API proposal 'lmTools' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-04-22 20:39:40.838 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'apidev.azure-api-center' wants API proposal 'chatParticipant' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-04-22 20:39:40.838 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'apidev.azure-api-center' wants API proposal 'languageModels' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-04-22 20:39:40.874 [warning] Missing property "composerState" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-04-22 20:39:40.874 [warning] Missing property "mcpServers" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-04-22 20:39:40.874 [warning] Missing property "availableDefaultModels2" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-04-22 20:39:40.875 [warning] Missing property "notepadState" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-04-22 20:39:40.875 [warning] Missing property "bugbotState" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-04-22 20:39:40.875 [warning] Missing property "backgroundComposerState" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-04-22 20:39:40.875 [warning] Missing property "dialogDontAskAgainPreferences" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-04-22 20:39:40.875 [warning] Missing property "aiFeaturesCopyPasteState" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-04-22 20:39:40.875 [warning] Missing property "shouldShowViewZoneWhenPreviewBoxIsClipped6" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-04-22 20:39:40.876 [warning] Missing property "syncDevModeColorTheme" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-04-22 20:39:40.876 [warning] Missing property "cppModelsState" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-04-22 20:39:40.876 [warning] Missing property "isLinterEnabled" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-04-22 20:39:40.876 [warning] Missing property "aiSettings" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-04-22 20:39:40.876 [warning] Missing property "authenticationSettings" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-04-22 20:39:40.877 [warning] Missing property "websiteUrl" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-04-22 20:39:40.877 [warning] Missing property "backendUrl" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-04-22 20:39:40.877 [warning] Missing property "authClientId" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-04-22 20:39:40.877 [warning] Missing property "authDomain" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-04-22 20:39:40.877 [warning] Missing property "repoBackendUrl" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-04-22 20:39:40.877 [warning] Missing property "contextBankUrl" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-04-22 20:39:40.877 [warning] Missing property "telemBackendUrl" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-04-22 20:39:40.878 [warning] Missing property "cmdkBackendUrl" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-04-22 20:39:40.878 [warning] Missing property "geoCppBackendUrl" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-04-22 20:39:40.878 [warning] Missing property "cppConfigBackendUrl" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-04-22 20:39:40.878 [warning] Missing property "bcProxyUrl" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-04-22 20:39:40.878 [warning] Missing property "credentialsDisplayName" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-04-22 20:39:40.878 [warning] Missing property "docState" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-04-22 20:39:40.878 [warning] Missing property "lastUpdateHiddenTimeInUnixSeconds" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-04-22 20:39:40.878 [warning] Missing property "lintRules" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-04-22 20:39:40.879 [warning] Missing property "bubbleTimesLeft" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-04-22 20:39:40.879 [warning] Missing property "showAgentActionDebugger" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-04-22 20:39:40.879 [warning] Missing property "cmdLineHookState" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-04-22 20:39:40.879 [warning] Missing property "agentDebuggerState" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-04-22 20:39:40.879 [warning] Missing property "showLinterDebugger" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-04-22 20:39:40.879 [warning] Missing property "linterDebuggerState" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-04-22 20:39:40.879 [warning] Missing property "cacheChatPrompts" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-04-22 20:39:40.880 [warning] Missing property "cmdkDiffHistoryEnabled" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-04-22 20:39:40.880 [warning] Missing property "shouldOnlyImportOnAccept" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-04-22 20:39:40.880 [warning] Missing property "cppAutoImportDecorationStyle" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-04-22 20:39:40.880 [warning] Missing property "lintSettings" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-04-22 20:39:40.880 [warning] Missing property "lastUpgradeToProNotificationTime" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-04-22 20:39:40.880 [warning] Missing property "haveNotSeen" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-04-22 20:39:40.880 [warning] Missing property "newUserData" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-04-22 20:39:40.880 [warning] Missing property "azureState" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-04-22 20:39:40.881 [warning] Missing property "interpreterModeSettings" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-04-22 20:39:40.881 [warning] Missing property "cppFireOnEveryCursorChange" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-04-22 20:39:40.881 [warning] Missing property "personalDocs" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-04-22 20:39:40.881 [warning] Missing property "cppInCmdF" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-04-22 20:39:40.881 [warning] Missing property "cppManualTriggerWithOpToken" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-04-22 20:39:40.881 [warning] Missing property "cppTriggerInComments" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-04-22 20:39:40.882 [warning] Missing property "cppShowWhitespaceOnlyChanges" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-04-22 20:39:40.882 [warning] Missing property "fastCppEnabled" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-04-22 20:39:40.882 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-04-22 20:39:40.882 [warning] Missing property "indexRepository" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-04-22 20:39:40.882 [warning] Missing property "haveNotImportedFromVSC" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-04-22 20:39:40.882 [warning] Missing property "shouldAutoParseCmdKLinks" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-04-22 20:39:40.882 [warning] Missing property "aiPreviewsEnabled" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-04-22 20:39:40.883 [warning] Missing property "autoCreateNewChatAfterTimeout" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-04-22 20:39:40.883 [warning] Missing property "aiPreviewSettings" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-04-22 20:39:40.883 [warning] Missing property "chatFadeInAnimationEnabled" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-04-22 20:39:40.883 [warning] Missing property "isFileSyncClientEnabled" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-04-22 20:39:40.883 [warning] Missing property "membershipType" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-04-22 20:39:40.883 [warning] Missing property "useFastApplyModel" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-04-22 20:39:40.883 [warning] Missing property "fastApplyModelType" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-04-22 20:39:40.884 [warning] Missing property "explicitlyEnableSemanticSearch" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-04-22 20:39:40.884 [warning] Missing property "aiCursorHelpEnabled" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-04-22 20:39:40.884 [warning] Missing property "showAllCmdKContexts" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-04-22 20:39:40.884 [warning] Missing property "markdownTestString" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-04-22 20:39:40.884 [warning] Missing property "cppInPeek" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-04-22 20:39:40.885 [warning] Missing property "fastSemanticSearchEnabled" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-04-22 20:39:40.885 [warning] Missing property "preferredEmbeddingModel" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-04-22 20:39:40.885 [warning] Missing property "cursorPredictionUIExperiments" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-04-22 20:39:40.885 [warning] Missing property "oneTimeSettings" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-04-22 20:39:40.885 [warning] Missing property "indexingState" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-04-22 20:39:40.885 [warning] Missing property "internalAnalyticsDebugMode" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-04-22 20:39:40.885 [warning] Missing property "fullContextOptions" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-04-22 20:39:40.885 [warning] Missing property "eligibleForSnippetLearning" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-04-22 20:39:40.886 [warning] Missing property "goneThroughCodeSnippetOnboarding" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-04-22 20:39:40.886 [warning] Missing property "goneThroughCodeSnippetChangeManagement" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-04-22 20:39:40.886 [warning] Missing property "shouldHideWarning" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-04-22 20:39:40.886 [warning] Missing property "persistentChatMetadata" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-04-22 20:39:40.887 [warning] Missing property "aiPanePosition" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-04-22 20:39:40.887 [warning] Missing property "shouldRerankByDefault" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-04-22 20:39:40.887 [warning] Missing property "indexingData" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-04-22 20:39:40.887 [warning] Missing property "composerState" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-04-22 20:39:40.888 [warning] Missing property "isCursorPredictionOutOfRangeIndicatorMinimized2" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-04-22 20:39:40.888 [warning] Missing property "needsComposerInitialOpening" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-04-22 20:39:40.889 [warning] Missing property "approvedProjectMcpServers" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-04-22 20:39:40.889 [warning] Missing property "disabledMcpServers" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-04-22 20:39:41.392 [info] Started local extension host with pid 5267.
+2025-04-22 20:39:41.600 [info] Started initializing default profile extensions in extensions installation folder. file:///home/youcef/.cursor/extensions
+2025-04-22 20:39:41.993 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/youcef/.cursor/extensions
+2025-04-22 20:39:42.958 [warning] Missing property "hasDisabledErrorLensForAiLinter" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-04-22 20:39:43.452 [error] [Extension Host] (node:5267) ExperimentalWarning: Use `importAttributes` instead of `importAssertions`
+(Use `exe --trace-warnings ...` to show where the warning was created)
+2025-04-22 20:39:47.377 [error] [network] #1: https://main.vscode-cdn.net/extensions/chat.json - error GET Failed to fetch
+2025-04-22 20:39:47.379 [warning] Failed to fetch chat participant registry Failed to fetch
+2025-04-22 20:39:54.801 [error] [unavailable]: ConnectError: [unavailable]
+    at t (vscode-file://vscode-app/tmp/.mount_CursorDRS4o3/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:2405:131870)
+    at async Object.availableDocs (vscode-file://vscode-app/tmp/.mount_CursorDRS4o3/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:98:15147)
+    at async b3t.availableDocs (vscode-file://vscode-app/tmp/.mount_CursorDRS4o3/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:593:37312)
+    at async ajt.z (vscode-file://vscode-app/tmp/.mount_CursorDRS4o3/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:881:92858) [unavailable]
+2025-04-22 20:39:55.752 [error] [unavailable]: ConnectError: [unavailable]
+    at t (vscode-file://vscode-app/tmp/.mount_CursorDRS4o3/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:2405:131870)
+    at async Object.getDefaultModelNudgeData (vscode-file://vscode-app/tmp/.mount_CursorDRS4o3/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:98:15147)
+    at async b3t.performDefaultModelRequest (vscode-file://vscode-app/tmp/.mount_CursorDRS4o3/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:593:38078) [unavailable]
+2025-04-22 20:39:57.096 [error] [unavailable]: ConnectError: [unavailable]
+    at t (vscode-file://vscode-app/tmp/.mount_CursorDRS4o3/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:2405:131870)
+    at async Object.availableDocs (vscode-file://vscode-app/tmp/.mount_CursorDRS4o3/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:98:15147)
+    at async b3t.availableDocs (vscode-file://vscode-app/tmp/.mount_CursorDRS4o3/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:593:37312)
+    at async Object.fn (vscode-file://vscode-app/tmp/.mount_CursorDRS4o3/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:4998:37911) [unavailable]
+2025-04-22 20:39:57.951 [error] [unavailable]: ConnectError: [unavailable]
+    at t (vscode-file://vscode-app/tmp/.mount_CursorDRS4o3/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:2405:131870)
+    at async Object.cursorPredictionConfig (vscode-file://vscode-app/tmp/.mount_CursorDRS4o3/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:98:15147)
+    at async hEi._refreshConfig (vscode-file://vscode-app/tmp/.mount_CursorDRS4o3/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:4992:4976) [unavailable]
+2025-04-22 20:39:59.270 [error] [unavailable]: ConnectError: [unavailable]
+    at t (vscode-file://vscode-app/tmp/.mount_CursorDRS4o3/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:2405:131870)
+    at async Object.availableModels (vscode-file://vscode-app/tmp/.mount_CursorDRS4o3/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:98:15147)
+    at async lEi.keepCppModelStateUpdated (vscode-file://vscode-app/tmp/.mount_CursorDRS4o3/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:4972:11407)
+    at async lEi.loadCppConfigIncludingHandlingProAccess (vscode-file://vscode-app/tmp/.mount_CursorDRS4o3/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:4987:1027) [unavailable]
+2025-04-22 20:39:59.274 [error] [unavailable]: ConnectError: [unavailable]
+    at t (vscode-file://vscode-app/tmp/.mount_CursorDRS4o3/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:2405:131870)
+    at async Object.cppEditHistoryStatus (vscode-file://vscode-app/tmp/.mount_CursorDRS4o3/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:98:15147)
+    at async pEi.pollTelemEnabled (vscode-file://vscode-app/tmp/.mount_CursorDRS4o3/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:4997:21930) [unavailable]
+2025-04-22 20:40:04.967 [error] [unavailable]: ConnectError: [unavailable]
+    at t (vscode-file://vscode-app/tmp/.mount_CursorDRS4o3/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:2405:131870)
+    at async Object.availableDocs (vscode-file://vscode-app/tmp/.mount_CursorDRS4o3/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:98:15147)
+    at async b3t.availableDocs (vscode-file://vscode-app/tmp/.mount_CursorDRS4o3/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:593:37312)
+    at async Object.fn (vscode-file://vscode-app/tmp/.mount_CursorDRS4o3/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:2303:72441) [unavailable]
+2025-04-22 20:40:06.009 [error] [unavailable]: ConnectError: [unavailable]
+    at t (vscode-file://vscode-app/tmp/.mount_CursorDRS4o3/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:2405:131870)
+    at async Object.getEmail (vscode-file://vscode-app/tmp/.mount_CursorDRS4o3/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:98:15147)
+    at async FQe.getEmailAndSignUpType (vscode-file://vscode-app/tmp/.mount_CursorDRS4o3/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:98:138295) [unavailable]
+2025-04-22 20:40:07.112 [error] [unauthenticated] Error: ConnectError: [unauthenticated] Error
+    at t (vscode-file://vscode-app/tmp/.mount_CursorDRS4o3/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:2405:131870)
+    at async Object.getEmail (vscode-file://vscode-app/tmp/.mount_CursorDRS4o3/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:98:15147)
+    at async FQe.getEmailAndSignUpType (vscode-file://vscode-app/tmp/.mount_CursorDRS4o3/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:98:138295) [unauthenticated] Error
+2025-04-22 20:40:09.868 [info] [perf] Render performance baseline is 44ms
+2025-04-22 20:40:12.052 [error] [unavailable]: ConnectError: [unavailable]
+    at t (vscode-file://vscode-app/tmp/.mount_CursorDRS4o3/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:2405:131870)
+    at async Object.getEmail (vscode-file://vscode-app/tmp/.mount_CursorDRS4o3/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:98:15147)
+    at async FQe.getEmailAndSignUpType (vscode-file://vscode-app/tmp/.mount_CursorDRS4o3/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:98:138295) [unavailable]
+2025-04-22 20:40:13.941 [error] [unavailable]: ConnectError: [unavailable]
+    at t (vscode-file://vscode-app/tmp/.mount_CursorDRS4o3/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:2405:131870)
+    at async Object.getEmail (vscode-file://vscode-app/tmp/.mount_CursorDRS4o3/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:98:15147)
+    at async FQe.getEmailAndSignUpType (vscode-file://vscode-app/tmp/.mount_CursorDRS4o3/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:98:138295) [unavailable]
+2025-04-22 20:40:25.834 [error] [unavailable]: ConnectError: [unavailable]
+    at t (vscode-file://vscode-app/tmp/.mount_CursorDRS4o3/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:2405:131870)
+    at async Object.availableModels (vscode-file://vscode-app/tmp/.mount_CursorDRS4o3/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:98:15147)
+    at async lEi.keepCppModelStateUpdated (vscode-file://vscode-app/tmp/.mount_CursorDRS4o3/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:4972:11407) [unavailable]
+2025-04-22 20:40:26.588 [error] [unavailable]: ConnectError: [unavailable]
+    at t (vscode-file://vscode-app/tmp/.mount_CursorDRS4o3/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:2405:131870)
+    at async Object.getEmail (vscode-file://vscode-app/tmp/.mount_CursorDRS4o3/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:98:15147)
+    at async FQe.getEmailAndSignUpType (vscode-file://vscode-app/tmp/.mount_CursorDRS4o3/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:98:138295) [unavailable]
+2025-04-22 20:40:28.035 [error] [unauthenticated] Error: ConnectError: [unauthenticated] Error
+    at t (vscode-file://vscode-app/tmp/.mount_CursorDRS4o3/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:2405:131870)
+    at async Object.getEmail (vscode-file://vscode-app/tmp/.mount_CursorDRS4o3/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:98:15147)
+    at async FQe.getEmailAndSignUpType (vscode-file://vscode-app/tmp/.mount_CursorDRS4o3/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:98:138295) [unauthenticated] Error
+2025-04-22 20:40:29.681 [error] [unauthenticated] Error: ConnectError: [unauthenticated] Error
+    at t (vscode-file://vscode-app/tmp/.mount_CursorDRS4o3/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:2405:131870)
+    at async Object.getEmail (vscode-file://vscode-app/tmp/.mount_CursorDRS4o3/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:98:15147)
+    at async FQe.getEmailAndSignUpType (vscode-file://vscode-app/tmp/.mount_CursorDRS4o3/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:98:138295) [unauthenticated] Error
+2025-04-22 20:41:14.735 [error] [UtilityProcessWorker]: terminated unexpectedly with code 2, signal: unknown
+2025-04-22 20:41:14.746 [error] [File Watcher (universal)] restarting watcher after unexpected error: terminated by itself unexpectedly with code 2, signal: unknown (ETERM)

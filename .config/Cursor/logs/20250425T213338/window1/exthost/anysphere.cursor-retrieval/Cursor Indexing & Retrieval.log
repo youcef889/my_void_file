@@ -1,0 +1,60 @@
+2025-04-25 21:33:44.545 [error] Git command failed: git config --get remote.origin.url Command failed: git config --get remote.origin.url
+
+2025-04-25 21:33:44.545 [error] Error getting repo info: Command failed: git config --get remote.origin.url
+
+2025-04-25 21:33:44.545 [error] Error: Command failed: git config --get remote.origin.url
+
+	at genericNodeError (node:internal/errors:984:15)
+	at wrappedFn (node:internal/errors:538:14)
+	at ChildProcess.exithandler (node:child_process:422:12)
+	at ChildProcess.emit (node:events:518:28)
+	at maybeClose (node:internal/child_process:1104:16)
+	at Socket.<anonymous> (node:internal/child_process:456:11)
+	at Socket.emit (node:events:518:28)
+	at Pipe.<anonymous> (node:net:343:12)
+2025-04-25 21:33:44.682 [error] accessToken is undefined. User is not logged in. We shouldn't do any indexing.
+2025-04-25 21:34:05.821 [error] Git command failed: git config --get remote.origin.url Command failed: git config --get remote.origin.url
+
+2025-04-25 21:34:05.821 [error] Error getting repo info: Command failed: git config --get remote.origin.url
+
+2025-04-25 21:34:05.821 [error] Error: Command failed: git config --get remote.origin.url
+
+	at genericNodeError (node:internal/errors:984:15)
+	at wrappedFn (node:internal/errors:538:14)
+	at ChildProcess.exithandler (node:child_process:422:12)
+	at ChildProcess.emit (node:events:518:28)
+	at maybeClose (node:internal/child_process:1104:16)
+	at Socket.<anonymous> (node:internal/child_process:456:11)
+	at Socket.emit (node:events:518:28)
+	at Pipe.<anonymous> (node:net:343:12)
+2025-04-25 21:34:05.954 [error] accessToken is undefined. User is not logged in. We shouldn't do any indexing.
+2025-04-25 21:34:40.444 [error] Git command failed: git config --get remote.origin.url Command failed: git config --get remote.origin.url
+
+2025-04-25 21:34:40.444 [error] Error getting repo info: Command failed: git config --get remote.origin.url
+
+2025-04-25 21:34:40.444 [error] Error: Command failed: git config --get remote.origin.url
+
+	at genericNodeError (node:internal/errors:984:15)
+	at wrappedFn (node:internal/errors:538:14)
+	at ChildProcess.exithandler (node:child_process:422:12)
+	at ChildProcess.emit (node:events:518:28)
+	at maybeClose (node:internal/child_process:1104:16)
+	at Socket.<anonymous> (node:internal/child_process:456:11)
+	at Socket.emit (node:events:518:28)
+	at Pipe.<anonymous> (node:net:343:12)
+2025-04-25 21:34:40.633 [error] accessToken is undefined. User is not logged in. We shouldn't do any indexing.
+2025-04-25 21:39:51.349 [error] Git command failed: git config --get remote.origin.url Command failed: git config --get remote.origin.url
+
+2025-04-25 21:39:51.349 [error] Error getting repo info: Command failed: git config --get remote.origin.url
+
+2025-04-25 21:39:51.349 [error] Error: Command failed: git config --get remote.origin.url
+
+	at genericNodeError (node:internal/errors:984:15)
+	at wrappedFn (node:internal/errors:538:14)
+	at ChildProcess.exithandler (node:child_process:422:12)
+	at ChildProcess.emit (node:events:518:28)
+	at maybeClose (node:internal/child_process:1104:16)
+	at Socket.<anonymous> (node:internal/child_process:456:11)
+	at Socket.emit (node:events:518:28)
+	at Pipe.<anonymous> (node:net:343:12)
+2025-04-25 21:39:51.350 [error] accessToken is undefined. User is not logged in. We shouldn't do any indexing.

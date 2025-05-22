@@ -1,0 +1,61 @@
+2025-04-25 21:34:15.823 [info] (Client) Pylance async client (2024.8.1) started with python extension (2024.12.3)
+2025-04-25 21:34:16.429 [info] [Info  - 9:34:16 PM] (16284) Pylance language server 2024.8.1 (pyright version 1.1.373, commit ee424479) starting
+2025-04-25 21:34:16.429 [info] [Info  - 9:34:16 PM] (16284) Server root directory: file:///home/youcef/.cursor/extensions/ms-python.vscode-pylance-2024.8.1/dist
+2025-04-25 21:34:16.435 [info] [Info  - 9:34:16 PM] (16284) Starting service instance "manga_reader"
+2025-04-25 21:34:16.487 [info] [Info  - 9:34:16 PM] (16284) Setting pythonPath for service "manga_reader": "/home/youcef/project_flask/manga_reader/venv/bin/python"
+2025-04-25 21:34:16.488 [info] [Info  - 9:34:16 PM] (16284) Setting environmentName for service "manga_reader": "3.13.3 (venv venv)"
+2025-04-25 21:34:16.488 [info] [Info  - 9:34:16 PM] (16284) No include entries specified; assuming /home/youcef/project_flask/manga_reader
+2025-04-25 21:34:16.489 [info] [Info  - 9:34:16 PM] (16284) Auto-excluding **/node_modules
+2025-04-25 21:34:16.489 [info] [Info  - 9:34:16 PM] (16284) Auto-excluding **/__pycache__
+2025-04-25 21:34:16.490 [info] [Info  - 9:34:16 PM] (16284) Auto-excluding **/.*
+2025-04-25 21:34:16.521 [info] [Info  - 9:34:16 PM] (16284) Assuming Python version 3.13.3.final.0
+2025-04-25 21:34:16.654 [info] [Info  - 9:34:16 PM] (16284) Auto-excluding /home/youcef/project_flask/manga_reader/venv
+2025-04-25 21:34:16.659 [info] [Info  - 9:34:16 PM] (16284) Found 10 source files
+2025-04-25 21:34:17.008 [info] [Info  - 9:34:17 PM] (16284) Background analysis(1) root directory: file:///home/youcef/.cursor/extensions/ms-python.vscode-pylance-2024.8.1/dist
+2025-04-25 21:34:17.010 [info] [Info  - 9:34:17 PM] (16284) Background analysis(1) started
+2025-04-25 21:34:20.986 [info] [Info  - 9:34:20 PM] (16284) Indexer background runner(2) root directory: file:///home/youcef/.cursor/extensions/ms-python.vscode-pylance-2024.8.1/dist (index)
+2025-04-25 21:34:20.986 [info] [Info  - 9:34:20 PM] (16284) Indexing(2) started
+2025-04-25 21:34:21.871 [info] [Info  - 9:34:21 PM] (16284) scanned(2) 48 files over 1 exec env
+2025-04-25 21:34:23.606 [info] [Info  - 9:34:23 PM] (16284) [BG(1)] Long operation: checking: file:///home/youcef/project_flask/manga_reader/app/main.py (2893ms)
+2025-04-25 21:34:23.607 [info] [Info  - 9:34:23 PM] (16284) [BG(1)] Long operation: analyzing: file:///home/youcef/project_flask/manga_reader/app/main.py (3477ms)
+2025-04-25 21:34:24.179 [info] [Info  - 9:34:24 PM] (16284) indexed(2) 41 files over 1 exec env
+2025-04-25 21:34:24.210 [info] [Info  - 9:34:24 PM] (16284) Indexing finished(2).
+2025-04-25 21:36:04.997 [info] (Client) Pylance async client (2024.8.1) started with python extension (2024.12.3)
+2025-04-25 21:36:05.729 [info] [Info  - 9:36:05 PM] (20108) Pylance language server 2024.8.1 (pyright version 1.1.373, commit ee424479) starting
+2025-04-25 21:36:05.730 [info] [Info  - 9:36:05 PM] (20108) Server root directory: file:///home/youcef/.cursor/extensions/ms-python.vscode-pylance-2024.8.1/dist
+2025-04-25 21:36:05.761 [info] [Info  - 9:36:05 PM] (20108) Starting service instance "<default>"
+2025-04-25 21:36:05.795 [info] [Info  - 9:36:05 PM] (20108) Setting pythonPath for service "<default>": "/bin/python"
+2025-04-25 21:36:05.795 [info] [Info  - 9:36:05 PM] (20108) Setting environmentName for service "<default>": "3.13.3 (global)"
+2025-04-25 21:36:05.796 [info] [Info  - 9:36:05 PM] (20108) No include entries specified; assuming /<default workspace root>
+2025-04-25 21:36:05.798 [info] [Info  - 9:36:05 PM] (20108) Auto-excluding **/node_modules
+2025-04-25 21:36:05.799 [info] [Info  - 9:36:05 PM] (20108) Auto-excluding **/__pycache__
+2025-04-25 21:36:05.799 [info] [Info  - 9:36:05 PM] (20108) Auto-excluding **/.*
+2025-04-25 21:36:05.839 [info] [Info  - 9:36:05 PM] (20108) Assuming Python version 3.13.3.final.0
+2025-04-25 21:36:05.908 [info] [Error - 9:36:05 PM] (20108) File or directory "/<default workspace root>" does not exist.
+2025-04-25 21:36:05.909 [info] [Info  - 9:36:05 PM] (20108) No source files found.
+2025-04-25 21:36:05.955 [info] [Info  - 9:36:05 PM] (20108) Setting pythonPath for service "<default>": "/bin/python"
+2025-04-25 21:36:05.955 [info] [Info  - 9:36:05 PM] (20108) Setting environmentName for service "<default>": "3.13.3 (global)"
+2025-04-25 21:36:05.955 [info] [Info  - 9:36:05 PM] (20108) No include entries specified; assuming /<default workspace root>
+2025-04-25 21:36:05.955 [info] [Info  - 9:36:05 PM] (20108) Auto-excluding **/node_modules
+2025-04-25 21:36:05.955 [info] [Info  - 9:36:05 PM] (20108) Auto-excluding **/__pycache__
+2025-04-25 21:36:05.955 [info] [Info  - 9:36:05 PM] (20108) Auto-excluding **/.*
+2025-04-25 21:36:05.989 [info] [Info  - 9:36:05 PM] (20108) Assuming Python version 3.13.3.final.0
+2025-04-25 21:36:06.035 [info] [Error - 9:36:06 PM] (20108) File or directory "/<default workspace root>" does not exist.
+2025-04-25 21:36:06.035 [info] [Info  - 9:36:06 PM] (20108) No source files found.
+2025-04-25 21:36:06.374 [info] [Info  - 9:36:06 PM] (20108) Background analysis(1) root directory: file:///home/youcef/.cursor/extensions/ms-python.vscode-pylance-2024.8.1/dist
+2025-04-25 21:36:06.376 [info] [Info  - 9:36:06 PM] (20108) Background analysis(1) started
+2025-04-25 21:39:51.941 [info] (Client) Pylance async client (2024.8.1) started with python extension (2024.12.3)
+2025-04-25 21:39:52.641 [info] [Info  - 9:39:52 PM] (28796) Pylance language server 2024.8.1 (pyright version 1.1.373, commit ee424479) starting
+2025-04-25 21:39:52.641 [info] [Info  - 9:39:52 PM] (28796) Server root directory: file:///home/youcef/.cursor/extensions/ms-python.vscode-pylance-2024.8.1/dist
+2025-04-25 21:39:52.647 [info] [Info  - 9:39:52 PM] (28796) Starting service instance "manga_reader"
+2025-04-25 21:39:52.706 [info] [Info  - 9:39:52 PM] (28796) Setting pythonPath for service "manga_reader": "/home/youcef/project_flask/manga_reader/venv/bin/python"
+2025-04-25 21:39:52.707 [info] [Info  - 9:39:52 PM] (28796) Setting environmentName for service "manga_reader": "3.13.3 (venv venv)"
+2025-04-25 21:39:52.707 [info] [Info  - 9:39:52 PM] (28796) No include entries specified; assuming /home/youcef/project_flask/manga_reader
+2025-04-25 21:39:52.707 [info] [Info  - 9:39:52 PM] (28796) Auto-excluding **/node_modules
+2025-04-25 21:39:52.708 [info] [Info  - 9:39:52 PM] (28796) Auto-excluding **/__pycache__
+2025-04-25 21:39:52.708 [info] [Info  - 9:39:52 PM] (28796) Auto-excluding **/.*
+2025-04-25 21:39:52.748 [info] [Info  - 9:39:52 PM] (28796) Assuming Python version 3.13.3.final.0
+2025-04-25 21:39:52.828 [info] [Info  - 9:39:52 PM] (28796) Auto-excluding /home/youcef/project_flask/manga_reader/venv
+2025-04-25 21:39:52.833 [info] [Info  - 9:39:52 PM] (28796) Found 10 source files
+2025-04-25 21:39:53.275 [info] [Info  - 9:39:53 PM] (28796) Background analysis(1) root directory: file:///home/youcef/.cursor/extensions/ms-python.vscode-pylance-2024.8.1/dist
+2025-04-25 21:39:53.277 [info] [Info  - 9:39:53 PM] (28796) Background analysis(1) started

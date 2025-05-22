@@ -1,0 +1,80 @@
+{
+    "telemetry.sqmId": "",
+    "telemetry.macMachineId": "d13fed05df0e9ee43238bb71160c9ea6f33040d1d484e729051389ac6dce5fc2",
+    "telemetry.machineId": "da202a212adc0f1979ca53ee953dae03760b6acb917c789679d959bcbebb4be0",
+    "telemetry.devDeviceId": "d37f5b45-38cb-4475-931a-482623989d93",
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [
+            {
+                "folderUri": "file:///home/youcef/project_flask/manga_reader"
+            }
+        ],
+        "emptyWindows": [
+            {
+                "backupFolder": "1745516065294"
+            },
+            {
+                "backupFolder": "1745613277082"
+            }
+        ]
+    },
+    "profileAssociations": {
+        "workspaces": {
+            "file:///home/youcef/project_flask/payment_sys/paymentsystem": "__default__profile__",
+            "file:///home/youcef/project_flask/manga_reader": "__default__profile__"
+        },
+        "emptyWindows": {
+            "1745613277082": "__default__profile__"
+        }
+    },
+    "windowControlHeight": 35,
+    "theme": "vs-dark",
+    "themeBackground": "#1a1a1a",
+    "windowSplash": {
+        "zoomLevel": 0,
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "rgba(204, 204, 204, 0.87)",
+            "background": "#1a1a1a",
+            "editorBackground": "#1a1a1a",
+            "titleBarBackground": "#141414",
+            "titleBarBorder": "rgba(255, 255, 255, 0.05)",
+            "activityBarBackground": "#141414",
+            "sideBarBackground": "#141414",
+            "sideBarBorder": "rgba(255, 255, 255, 0.05)",
+            "statusBarBackground": "#141414",
+            "statusBarBorder": "rgba(255, 255, 255, 0.05)",
+            "statusBarNoFolderBackground": "#141414"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 35,
+            "activityBarWidth": 0,
+            "sideBarWidth": 210,
+            "statusBarHeight": 22,
+            "windowBorder": false
+        }
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "folder": "file:///home/youcef/project_flask/manga_reader",
+            "backupPath": "/home/youcef/.config/Cursor/Backups/463d8d5238cf817ddbb3209233eba616",
+            "uiState": {
+                "mode": 1,
+                "x": 31,
+                "y": 30,
+                "width": 1304,
+                "height": 727
+            }
+        },
+        "openedWindows": []
+    },
+    "userDataProfiles": [
+        {
+            "location": "64bc68d5",
+            "name": "Untitled"
+        }
+    ]
+}

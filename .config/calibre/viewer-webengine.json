@@ -1,0 +1,89 @@
+{
+  "geometry-of-main_window_geometry": {
+    "frame_geometry": {
+      "height": 729,
+      "width": 1037,
+      "x": 30,
+      "y": 29
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 727,
+      "width": 1035,
+      "x": 31,
+      "y": 30
+    },
+    "maximized": false,
+    "normal_geometry": {
+      "height": 727,
+      "width": 1035,
+      "x": 31,
+      "y": 30
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAAAeAAAAHQAABCoAAAL1AAAAHwAAAB4AAAQpAAAC9AAAAAAAAAAABVYAAAAfAAAAHgAABCkAAAL0"
+    },
+    "screen": {
+      "depth": 24,
+      "device_pixel_ratio": 1.0,
+      "geometry_in_logical_pixels": {
+        "height": 768,
+        "width": 1366,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "Chimei Innolux Corporation",
+      "model": "",
+      "name": "eDP1",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 768,
+        "width": 1366
+      },
+      "virtual_geometry": {
+        "height": 768,
+        "width": 1366,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "main_window_state": {
+    "__class__": "bytearray",
+    "__value__": "AAAA/wAAAAH9AAAAAgAAAAAAAAAAAAAAAPwCAAAAAvsAAAAQAHQAbwBjAC0AZABvAGMAawAAAAAA/////wAAAIUA////+wAAABYAcwBlAGEAcgBjAGgALQBkAG8AYwBrAAAAAAD/////AAAAkwD///8AAAABAAAAAAAAAAD8AgAAAAT7AAAAFgBsAG8AbwBrAHUAcAAtAGQAbwBjAGsAAAAAAP////8AAAB6AP////sAAAAcAGIAbwBvAGsAbQBhAHIAawBzAC0AZABvAGMAawAAAAAA/////wAAAOUA////+wAAABwAaQBuAHMAcABlAGMAdABvAHIALQBkAG8AYwBrAAAAAAD/////AAAAEQD////7AAAAHgBoAGkAZwBoAGwAaQBnAGgAdABzAC0AZABvAGMAawAAAAAA/////wAAAM4A////AAAECwAAAtcAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAAAAAAAAQAAAB4AYQBjAHQAaQBvAG4AcwBfAHQAbwBvAGwAYgBhAHICAAAAAP////8AAAAAAAAAAA=="
+  },
+  "old_prefs_migrated": true,
+  "session_data": {
+    "book_scrollbar": true,
+    "controls_help_shown_count": 2,
+    "standalone_font_settings": {},
+    "standalone_misc_settings": {
+      "remember_last_read": true,
+      "remember_window_geometry": false,
+      "save_annotations_in_ebook": true,
+      "singleinstance": false
+    },
+    "standalone_recently_opened": [
+      {
+        "authors": [
+          "William Stallings"
+        ],
+        "key": "/home/youcef/Calibre Library/William Stallings/Cryptography and Network Security_ Principles and Practice, 8_e (60)/Cryptography and Network Security_ Princip - William Stallings.epub",
+        "pathtoebook": "/home/youcef/Calibre Library/William Stallings/Cryptography and Network Security_ Principles and Practice, 8_e (60)/Cryptography and Network Security_ Princip - William Stallings.epub",
+        "timestamp": "2025-05-13T13:24:31.268Z",
+        "title": "Cryptography and Network Security: Principles and Practice, 8/e"
+      },
+      {
+        "authors": [
+          "A.N. Kolmogorov"
+        ],
+        "key": "/home/youcef/Calibre Library/A.N. Kolmogorov/Foundations of the Theory of Probability (58)/Foundations of the Theory of Probability - A.N. Kolmogorov.epub",
+        "pathtoebook": "/home/youcef/Calibre Library/A.N. Kolmogorov/Foundations of the Theory of Probability (58)/Foundations of the Theory of Probability - A.N. Kolmogorov.epub",
+        "timestamp": "2025-05-13T13:19:38.227Z",
+        "title": "Foundations of the Theory of Probability"
+      }
+    ]
+  }
+}
